@@ -1,0 +1,8 @@
+dataset/
+checkpoint/
+checkpoint_2/
+checkpoint_3/
+models/
+*pyc
+output/
+KITTI/
